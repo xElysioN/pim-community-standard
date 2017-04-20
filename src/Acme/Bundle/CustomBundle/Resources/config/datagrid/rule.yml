@@ -1,0 +1,5 @@
+datagrid:
+    rule-grid:
+        columns:
+            actions:
+                template: AcmeCustomBundle:Rules:_actions.html.twig
